@@ -1,0 +1,20 @@
+
+> ui@0.0.0 ng D:\DEEPAK\WORK\STUDY\Workspaces\workspace-20180720\spring-boot\ui
+> ng "s" "__design__" "--port" "5678"
+
+An unhandled exception occurred: Workspace config file cannot be loaded: D:\DEEPAK\WORK\STUDY\Workspaces\workspace-20180720\spring-boot\ui\angular.json
+Schema validation failed with the following errors:
+  Data path ".schematics" should be object.
+See "C:\Users\Admin\AppData\Local\Temp\ng-iS6gAt\angular-errors.log" for further details.
+npm ERR! code ELIFECYCLE
+npm ERR! syscall spawn
+npm ERR! file C:\Windows\system32\cmd.exe
+npm ERR! errno ENOENT
+npm ERR! ui@0.0.0 ng: `ng "s" "__design__" "--port" "5678"`
+npm ERR! spawn ENOENT
+npm ERR! 
+npm ERR! Failed at the ui@0.0.0 ng script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Admin\AppData\Roaming\npm-cache\_logs\2020-07-05T09_41_01_659Z-debug.log
